@@ -1,0 +1,111 @@
+* {
+  margin:0;
+  padding:0;  
+}
+
+body {
+    background:#e6e6e6;
+	font-family:"Baskerville Old Face";
+        font-size:17.5px;
+}
+
+header, .main, footer {
+    background:;
+    width:90%;
+    max-width:1000px;
+    margin:20px auto;	
+}
+
+header nav{
+    background:#528FD5;
+    overflow:hidden;	
+}
+
+header nav ul {
+    list-style:none; 
+}
+
+header nav ul li {
+	float:left;
+}
+
+header nav ul li a {
+	padding:10px 20px;
+	display:block;
+	color:#fff;
+	text-decoration:none;
+}
+
+header nav ul li a:hover {
+	background:#75ACEC;
+}
+
+.main .articles {
+	width:68.5%;
+	margin-right:1.5%;
+	float:left;
+}
+
+.main .articles article {
+	padding:20px;
+	background:#fff;
+	margin-bottom:20px;
+}
+
+confia {
+	width:30%;
+    background:#fff;
+	float:left;
+	padding:20px;
+	box-sizing:border-box;
+	margin-bottom:20px;
+}
+
+ orar {
+	width:30%;
+    background:#fff;
+	float:left;
+	padding:20px;
+	box-sizing:border-box;
+	margin-bottom:20px;
+}
+
+vida {
+	width:30%;
+    background:#fff;
+	float:left;
+	padding:20px;
+	box-sizing:border-box;
+	margin-bottom:20px;
+}
+
+palabra {
+	width:30%;
+    background:#fff;
+	float:left;
+	padding:20px;
+	box-sizing:border-box;
+	margin-bottom:20px;
+}
+
+footer {
+	background:#000;
+	color:#fff;
+	clear:both;
+    padding:10px 0px;
+    text-align:center;	
+}
+
+h2{
+	color: blue;
+}
+h3,h4,b {
+	color: #6e6868;
+}
+i{
+	color: red;
+}
+.titulo{
+	font-size:22px;
+        
+}

@@ -1,0 +1,206 @@
+<html>
+<head>
+     <title>Paz con Dios</title>
+     <link rel="shortcut icon" type="image/X-icon" href="favicon.ico">
+     <link rel="stylesheet" type="text/css" href="estilos.css">
+     <meta name="description" content=" Jeucristo es la unica respuesta al problema de nuestra separacion para con Dios, El murio en la cruz y resucito de de los muertos para pagar el precio por nuestros 
+		 pecados terminando completamente con la Separacionque exite entre nosotros y Dios." />
+      <meta name="keywords" content="Paz, Dios, Enseñanza, Jesucristo" /> 
+</head>
+<body>
+ <header> 
+    
+    <div class="logotipo">
+        <img src="logo.jpg" width="150" alt="">
+    </div>		
+	
+	<nav>
+	    <ul>
+		   <li><a href="https://www.google.com.mx/">Inicio</a></li>
+           <li><a href="mailto:covaultxander784@gmail.com" title="Enviar Correo a Dwight Covault">Enviar Mail</a></li>		   
+        </ul> 		
+	    
+	</nav>
+	
+	</header>
+	
+	<section class="main">
+	    <section class="articles">
+		    <article>
+			    <h2><center>Pasos para obtener njnjn la paz con Dios.</center></h2>
+			</article>
+			
+			<article>
+			
+			
+			
+			    <h2>Paso 1</h2>
+				
+				 <ul>
+	      <li><h3>El proposito de Dios: Paz y Vidad Eterna.</h3></li>
+		  <p>
+		  Dios te ama y el quiere que tu vivas en paz con El y que recibas vida eterna.
+		  </p>
+		  <h2>La Biblia dice....</h2>
+		  <p>
+           "...Tenemos <i>paz</i> con Dios por medio de nuestro Señor Jesucristo." 
+           		   <h4>Romanos 5:1</h4>		   
+		  
+`	  "Por que de tal manera amo Dios al mundo que ha
+           dado a su Hijo unigenito, para que todo aquel que en 
+	   el cree, no se pierda,<i> mas tenga vida eterna.</i>"
+		           <h4>juan 3:16</h4>
+
+          "Pero el don de Dios es <i>vida eterna</i> en Cristo
+		  Jesus, Señor nuestro"
+                   <h4>Romanos 6:23</h4>	
+
+           <h3>Si Dios planifico que tuvieramos paz con El y vida eterna ¿porque algunas personas no estan disfrutando de esta experiencia?</h3>				   
+		  </p>
+			</article>
+			
+			<article>
+			    <h2>Paso 2</h2>
+	    <ul>
+		
+		  <li><h3>Nuestro Problema: Pecado y Separacion.</h3></li>
+		  <p>
+		  Dios no nos creo como robots para que le amaramos y obedecieramos automaticamente. El nos dio voluntad y libertad para escoger y dicidir.
+		  Pero como Adan hizo, frecuentemente escogemos desobedecer a Dios y seguir nuestro estilo de vida egoista (<b>lea Genesis capitulos 2-3</b>). Este
+		  lado de nuestra naturaleza es llamado pecado, y nos separa de Dios.
+		  </p>
+		  <h2>La Biblia dice...</h2>
+		  <p>
+		  "Porque todos pecaron y no alcanza la gloria de Dios... Porque la paga del pecado es muerte"
+		           <h4>Romanos 3:23; 6:23</h4>				   
+		
+		"Y (despues que adan peco)" Jehova Dios lo arrojo del jardin del Eden...
+		           <h4>Genesis 3:23</h4>
+				   
+		"Vuestras iniquidades son las que hacen <i> separacion entre vosotros y vuestro Dios. </i> Vuestros pecados han hecho que su rostro se oculte de vosotros para no escuchar."
+		           <h4>Isaias 59:2</h4>
+		  </p>
+		</ul>  
+			</article>
+			
+			<article>
+			    <h2>Paso 3</h2>
+        <ul>	
+	     
+	      <li><h3>El Remedio de Dios:la Cruz.</h3></li>
+		  <p>
+		 Jeucristo es la unica respuesta al problema de nuestra separacion para con Dios, El murio en la cruz y resucito de de los muertos para pagar el precio por nuestros 
+		 pecados terminando completamente con la Separacionque exite entre nosotros y Dios.
+		  </p>
+		  <h2>La Biblia dice...</h2>
+		  <p>
+		  "Pero Dios muestra su amor para con nosotros, en que siendo aun pecadores, <i>Cristo murio por nosotros"</i>
+		          <h4>Romanos 5:8</h4>
+				  
+			"Y en <i>ningun otro</i> hay salvacion, porque no hay otro nombre debajo del cielo, dado a los hombres, en que podamos ser salvos"	
+                  <h4>Hechos 4:12</h4>	
+
+			"Porque hay un soo Dios y un solo <i>mediador</i> entre Dios y los hombres, Jesucristo hombres"
+                  <h4>1 Timoteo 2:5</h4>
+
+            "De cierto, de cierto os digo que el que oye mi palabra y cree al que me envio tiene vida eterna. el tal no vene a con denacion, sino que <i>ha pasado de muerte a vida</i>"
+			      <h4>Juan 5:24</h4>
+				  
+			<h3>Dios ha provisto el unico camino... y tenemos que tomar una decision.</h3>	  
+		  </p>
+		  
+		  </ul>
+			</article>
+			
+			<article>
+			    <h2>Paso 4</h2>
+		    <ul>
+			
+			
+	      <li><h3>Nuestra Respuesta: Recibir a Cristo.</h3></li>
+		  <p>
+		  Podemos recibir a Jesus cuando creeamos a su mensaje y confiamos en El solamente para salvarnos.
+		  </p>
+          
+		   <h2>La Biblia dice...</h2>
+		   
+		   <p>
+		   "Todos los profetas dan testimonio de el, y de que todo aquel que cree en El recibira perdon de pecados por su nombre"
+		          <h4>Hechos 10:43</h4>
+				  
+			"(Jesus dijo) No se turbe vuestro corazon creeis en Dios; <i>cred</i> tambien en mi"
+                  <h4>Juan 14:1</h4>
+
+			"Poro a todos los que le <i>recibieron</i> a los que <i>creen</i> en su nombre, les dio derecho de ser hechos hijos de Dios"
+                  <h4>Juan 1:12</h4>				  
+		   </p>
+		   
+		   </ul>
+
+			</article>
+			
+			
+		</section>
+	
+        <confia>
+		
+		<center><img src="Confie.jpg"/></center>
+		
+            <center><h2>Cofie en Cristo para que sea salvado.</h2></center>
+	  
+	    <ol>
+	       <li>Admita sus necesidad.(<i>Soy un pecador.</i>)</li>
+	       <li>Cambie de parecer sobre como ser salvo.(<i>Arrepientase</i>)</li>
+	       <li>Crea que Jesus murio en la cruz por usted y que resucito de los muertos.</li>
+	       <li>Digale a Dios que ha puesto su fe en Jesus solamente para salvacion y pidale que, por medio de Espiritu Santo, tome dominio de su vida.</li>
+	    </ol>
+		
+        </confia>	
+
+        <orar>
+		
+		<center><img src="Orar.jpg"/></center>
+		
+		 <center>
+	  <h2>¿Que Orar?</h2>
+        
+		<p>
+		Señor Jesus, reconozco que soy pecador, y necesito tu perdon. Confio y creo que mriste para pagar el castigo por mi pecado. 
+		Ponga mi confianza en Jesus solamente como mi salvador. Gracias por el perdon y la vida eterna que ahora tengo. En el nombre de Jesus, amen.
+		</p>
+		
+	  </center> 
+        </orar>
+
+ 		<vida>
+		<center>
+	   <h2>Su nueva vida.</h2>
+	   
+	   <p>
+	   como usted deposito su confianza en Cristo para ser salvo, ustednace en la familia de Dios por medio de la obra sobrenatural del Espirutu Santo, quien viene a morar en cada creyente... a esto se le llama regeneracion o "nuevo nacimiento." Dios le bendiga en el comienzo de una nueva vida maravillosa en Cristo.
+	   </p>
+	</center>
+		</vida>
+		
+		<palabra>
+		<center>
+	  <h2>Seguridad fundamental en Dios: Su Palabra</h2>
+	  
+        <p>
+		Si usted ha onfiado en Jesus solamente y exclusivamente como su salvador, <i>¿sabe lo que le ha sido dado?</i>
+        </p>
+		
+		<center><img src="Palabra.jpg"/></center>
+		
+	 </center>
+		</palabra>
+	</section>
+	
+	</ul>
+	
+	<footer>
+	   <p>Dwight Covault - XanderMasters.com</p>
+	</footer>
+	
+</body>
+</html>
